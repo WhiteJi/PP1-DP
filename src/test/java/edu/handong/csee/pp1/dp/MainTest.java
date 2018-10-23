@@ -20,7 +20,6 @@ public class MainTest {
 		
 		Main.main(args);
 	}
-	
 	@Test
 	public void testForTasks2_1() {
 		// TASK2 TODO GitHub에서 작은 규모의 자바 프로젝트를 2개를 찾아, arff파일을 생성하시오. 파일이름은 [project이름].arff data디렉터리에 저장되게 하고
@@ -33,6 +32,7 @@ public class MainTest {
 		
 		Main.main(args);
 	}
+	
 	@Test
 	public void testForTasks2_2() {
 		// TASK2 TODO GitHub에서 작은 규모의 자바 프로젝트를 2개를 찾아, arff파일을 생성하시오. 파일이름은 [project이름].arff data디렉터리에 저장되게 하고
